@@ -10,7 +10,7 @@ public class TestFiguras {
 		// TODO Auto-generated method stub
 		Figura f = new Figura("Geometrica","Azul");
 		
-		Cuadrado c = new Cuadrado("Pepe","Purpura");
+		Cuadrado c = new Cuadrado(20,"Pepe","Purpura");
 		
 		Triangulo t = new Triangulo("Carlos","Vino");
 		
